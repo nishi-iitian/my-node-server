@@ -1,0 +1,17 @@
+{
+  "name": "my-node-server", 
+  "version": "1.0.0" ,
+  "description":"",
+  "main": "index.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [], 
+  "author": "Nishi",
+  "license": "ISC", 
+  "dependencies": {
+    "cors": "^2.8.6",
+    "expess": "^0.0.1-security",
+    "express": "^5.2.1"
+  }
+}
